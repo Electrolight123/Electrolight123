@@ -50,8 +50,8 @@
   <tr>
     <td><strong>📫 Reach Me</strong></td>
     <td>
-      <a href="https://www.linkedin.com/in/abhishek-bala-ba1ab224b/">LinkedIn</a> |
-      <a href="https://x.com/Electrolight18">Twitter</a> |
+      <a href="https://www.linkedin.com/in/abhishek-bala-ba1ab224b/"><strong>LinkedIn</strong></a> |
+      <a href="https://x.com/Electrolight18"><strong>Twitter</strong></a> |
       GitHub DMs
     </td>
   </tr>
