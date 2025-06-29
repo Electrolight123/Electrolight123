@@ -1,6 +1,4 @@
-<h1 align="center">
-  Hey there! I'm <span style="color:#4CC9F0;">Abhishek Bala</span> 👋  
-</h1>
+<p align="center"><a href="https://Electrolight123.github.io"><img width="80%" alt="Hello, I'm Abhishek Bala." src="./assets/github-header-image.png" /></a></p>
 
 <!--
 **Electrolight123/Electrolight123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
