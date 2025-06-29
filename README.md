@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1 align="center">
+  Hey there! I'm <span style="color:#4CC9F0;">Abhishek Bala</span> 👋  
+</h1>
 
 <!--
 **Electrolight123/Electrolight123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
