@@ -118,6 +118,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=python&logoColor=white)
 ![LCEL](https://img.shields.io/badge/LCEL-000000?style=for-the-badge&logo=python&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-1E1E1E?style=for-the-badge&logo=semantic-release&logoColor=white)
+![Firecrawl](https://img.shields.io/badge/Firecrawl-FF6600?style=for-the-badge&logo=firefox-browser&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq_API-FF6B81?style=for-the-badge&logo=lightning&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![AutoGen](https://img.shields.io/badge/AutoGen-00BFFF?style=for-the-badge&logo=openai&logoColor=white)
