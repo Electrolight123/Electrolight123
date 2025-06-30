@@ -211,10 +211,13 @@
 
 ## 💰 You can help me by Donating
 
+If you find my projects helpful or inspiring, consider supporting my work 🤍  
+Your support helps me keep building open-source AI agents and educational tools.
+
 <div align="center">
-  
+
+[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-%23EA4AAA?style=for-the-badge&logo=GitHub-Sponsors&logoColor=white)](https://github.com/sponsors/Electrolight123)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/electrolight) 
-<iframe src="https://github.com/sponsors/Electrolight123/button" title="Sponsor Electrolight123" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
 
 </div>
 
@@ -222,6 +225,6 @@
 
 <div align="center">
 
-Thanks for visiting! 👋
+**Thanks for visiting! 👋**
 
 </div> 
