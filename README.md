@@ -231,3 +231,9 @@ Your support helps me keep building open-source AI agents and educational tools.
 **Thanks for visiting! 👋**
 
 </div> 
+
+<div align="center">
+  
+![snake gif](https://github.com/Electrolight123/Electrolight123/blob/output/github-snake.svg)
+
+</div> 
