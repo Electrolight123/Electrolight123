@@ -205,8 +205,14 @@
 <a href="https://github.com/Electrolight123/AI-TravelPlanner-CrewAI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Electrolight123&repo=AI-TravelPlanner-CrewAI&theme=buefy" />
 </a>
-<a href="https://github.com/Electrolight123/AI-TextEvaluator-Suite">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Electrolight123&repo=AI-TextEvaluator-Suite&theme=buefy" />
+<a href="https://github.com/Electrolight123/BlogToPodcast-Agent">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Electrolight123&repo=BlogToPodcast-Agent&theme=buefy" />
+</a>
+
+<br />
+
+<a href="https://github.com/Electrolight123/Bitcoin-Trading-Signal-Prediction">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Electrolight123&repo=Bitcoin-Trading-Signal-Prediction&theme=buefy" />
 </a>
 
 </div>
