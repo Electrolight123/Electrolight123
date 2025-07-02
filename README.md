@@ -194,7 +194,7 @@
 <div align="center">
   
 <a href="https://github.com/Electrolight123/BrowserAgent-GPT-Navigator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Electrolight123&repo=BrowserAgent-GPT-Navigator&theme=buef" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Electrolight123&repo=BrowserAgent-GPT-Navigator&theme=buefy" />
 </a>
 <a href="https://github.com/Electrolight123/StockSage-AI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Electrolight123&repo=StockSage-AI&theme=buefy" />
