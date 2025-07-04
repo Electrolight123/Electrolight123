@@ -112,19 +112,22 @@
 
 ### 🤖 AI & ML
 
-**🔗 LangChain + Agentic Stack**  
+ **🔗 Agentic Frameworks**  
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=python&logoColor=white)
 ![LCEL](https://img.shields.io/badge/LCEL-000000?style=for-the-badge&logo=python&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-1E1E1E?style=for-the-badge&logo=semantic-release&logoColor=white)
-![Firecrawl](https://img.shields.io/badge/Firecrawl-FF6600?style=for-the-badge&logo=firefox-browser&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_API-FF6B81?style=for-the-badge&logo=lightning&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![AutoGen](https://img.shields.io/badge/AutoGen-00BFFF?style=for-the-badge&logo=openai&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-8B5CF6?style=for-the-badge&logo=semantic-release&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1E40AF?style=for-the-badge&logo=python&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=python&logoColor=white)
+
+
+**🧠 LLM APIs & Inference**  
+![Groq](https://img.shields.io/badge/Groq_API-FF6B81?style=for-the-badge&logo=lightning&logoColor=white)
+![NVIDIA NIM](https://img.shields.io/badge/NVIDIA_NIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Agno](https://img.shields.io/badge/Agno_SDK-000000?style=for-the-badge&logo=python&logoColor=white)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-FF6C37?style=for-the-badge&logo=voice-recognition&logoColor=white)
+![Firecrawl](https://img.shields.io/badge/Firecrawl-FF6600?style=for-the-badge&logo=firefox-browser&logoColor=white)
 
 **🧠 Deep Learning**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -167,10 +170,10 @@
 ### ☁️ DevOps / Cloud  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=github-actions&logoColor=white)
 
 </div>
-
 
 ---
 
