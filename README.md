@@ -191,31 +191,29 @@
 
 ## 🚀 Top Repositories
 
-<div align="center">
-  
-<a href="https://github.com/Electrolight123/BrowserAgent-GPT-Navigator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Electrolight123&repo=BrowserAgent-GPT-Navigator&theme=buefy" />
-</a>
-<a href="https://github.com/Electrolight123/StockSage-AI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Electrolight123&repo=StockSage-AI&theme=buefy" />
-</a>
+<p align="center">
+  <a href="https://github.com/Electrolight123/BrowserAgent-GPT-Navigator">
+    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Electrolight123&repo=BrowserAgent-GPT-Navigator&theme=buefy" />
+  </a>
+  <a href="https://github.com/Electrolight123/StockSage-AI">
+    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Electrolight123&repo=StockSage-AI&theme=buefy" />
+  </a>
+</p>
 
-<br />
+<p align="center">
+  <a href="https://github.com/Electrolight123/AI-TravelPlanner-CrewAI">
+    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Electrolight123&repo=AI-TravelPlanner-CrewAI&theme=buefy" />
+  </a>
+  <a href="https://github.com/Electrolight123/BlogToPodcast-Agent">
+    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Electrolight123&repo=BlogToPodcast-Agent&theme=buefy" />
+  </a>
+</p>
 
-<a href="https://github.com/Electrolight123/AI-TravelPlanner-CrewAI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Electrolight123&repo=AI-TravelPlanner-CrewAI&theme=buefy" />
-</a>
-<a href="https://github.com/Electrolight123/BlogToPodcast-Agent">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Electrolight123&repo=BlogToPodcast-Agent&theme=buefy" />
-</a>
-
-<br />
-
-<a href="https://github.com/Electrolight123/Bitcoin-Trading-Signal-Prediction">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Electrolight123&repo=Bitcoin-Trading-Signal-Prediction&theme=buefy" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/Electrolight123/Bitcoin-Trading-Signal-Prediction">
+    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Electrolight123&repo=Bitcoin-Trading-Signal-Prediction&theme=buefy" />
+  </a>
+</p>
 
 ---
 
