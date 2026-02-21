@@ -193,25 +193,25 @@
 
 <p align="center">
   <a href="https://github.com/Electrolight123/BrowserAgent-GPT-Navigator">
-    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Electrolight123&repo=BrowserAgent-GPT-Navigator&theme=buefy" />
+    <img width="420" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Electrolight123&repo=BrowserAgent-GPT-Navigator&theme=buefy&cache_seconds=86400" />
   </a>
   <a href="https://github.com/Electrolight123/StockSage-AI">
-    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Electrolight123&repo=StockSage-AI&theme=buefy" />
+    <img width="420" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Electrolight123&repo=StockSage-AI&theme=buefy&cache_seconds=86400" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Electrolight123/AI-TravelPlanner-CrewAI">
-    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Electrolight123&repo=AI-TravelPlanner-CrewAI&theme=buefy" />
+    <img width="420" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Electrolight123&repo=AI-TravelPlanner-CrewAI&theme=buefy&cache_seconds=86400" />
   </a>
   <a href="https://github.com/Electrolight123/BlogToPodcast-Agent">
-    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Electrolight123&repo=BlogToPodcast-Agent&theme=buefy" />
+    <img width="420" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Electrolight123&repo=BlogToPodcast-Agent&theme=buefy&cache_seconds=86400" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Electrolight123/Bitcoin-Trading-Signal-Prediction">
-    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Electrolight123&repo=Bitcoin-Trading-Signal-Prediction&theme=buefy" />
+    <img width="420" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Electrolight123&repo=Bitcoin-Trading-Signal-Prediction&theme=buefy&cache_seconds=86400" />
   </a>
 </p>
 
