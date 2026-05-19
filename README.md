@@ -30,7 +30,7 @@
 <table align="center">
   <tr>
     <td><strong>🔭 Currently Building</strong></td>
-    <td>Autonomous AI agents using LangGraph, MCP, CrewAI, and custom RAG pipelines</td>
+    <td>Autonomous AI agents using MCP, CrewAI, and custom RAG pipelines</td>
   </tr>
   <tr>
     <td><strong>🌱 Learning</strong></td>
@@ -119,6 +119,7 @@
 ![CrewAI](https://img.shields.io/badge/CrewAI-8B5CF6?style=for-the-badge&logo=semantic-release&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1E40AF?style=for-the-badge&logo=python&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=python&logoColor=white)
+
 
 **🧠 LLM APIs & Inference**  
 ![Groq](https://img.shields.io/badge/Groq_API-FF6B81?style=for-the-badge&logo=lightning&logoColor=white)
