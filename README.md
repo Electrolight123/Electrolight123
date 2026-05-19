@@ -1,8 +1,12 @@
-<p align="center"><a href="https://Electrolight123.github.io"><img width="80%" alt="Hello, I'm Abhishek Bala." src="./assets/github-header-image.png" /></a></p>
+<p align="center">
+  <a href="https://Electrolight123.github.io">
+    <img width="80%" alt="Hello, I'm Abhishek Bala." src="./assets/github-header-image.png" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/Electrolight123">
-    <img src="https://readme-typing-svg.herokuapp.com?color=F72585&center=true&vCenter=true&width=650&height=50&lines=💻+AI+%26+Web+Developer;🔐+Cybersecurity+Enthusiast;🚀+Building+Autonomous+AI+Agents+for+Real-World+Tasks;🧠+Problem+Solver;📚+Forever%20Learning">
+    <img src="https://readme-typing-svg.herokuapp.com?color=F72585&center=true&vCenter=true&width=750&height=50&lines=🤖+AI+Engineer+%7C+GenAI+%7C+Agents+%7C+RAG+%7C+FinTech+ML;🔐+Cybersecurity+Enthusiast;🚀+Building+Autonomous+AI+Agents+for+Real-World+Tasks;🧠+Problem+Solver;📚+Forever+Learning" alt="Typing SVG" />
   </a>
 </p>
 
@@ -29,24 +33,32 @@
 <div align="center">
 <table align="center">
   <tr>
+    <td><strong>🎓 Education</strong></td>
+    <td>Final-year Dual Degree student at NIT Rourkela</td>
+  </tr>
+  <tr>
     <td><strong>🔭 Currently Building</strong></td>
     <td>Autonomous AI agents using LangGraph, MCP, CrewAI, and custom RAG pipelines</td>
   </tr>
   <tr>
+    <td><strong>💼 Internship Work</strong></td>
+    <td>Worked on AI/ML use cases at L&T Finance, including pre-delinquency prediction, customer churn prediction, and an agentic AI chatbot using LangGraph and RAG</td>
+  </tr>
+  <tr>
     <td><strong>🌱 Learning</strong></td>
-    <td>Blockchain, Web3, agentic architectures, and cybersecurity practices</td>
+    <td>Agentic AI, fintech ML, Web3, cybersecurity practices, and production deployment</td>
   </tr>
   <tr>
     <td><strong>👯 Collaboration</strong></td>
-    <td>Open to AI tools, agent-based automation, and real-world apps</td>
+    <td>Open to AI tools, agent-based automation, fintech products, and real-world apps</td>
   </tr>
   <tr>
     <td><strong>🤔 Help With</strong></td>
-    <td>Scaling AI agents, real-time web integration, and production deployment</td>
+    <td>Scaling AI agents, real-time web integration, RAG evaluation, and production deployment</td>
   </tr>
   <tr>
     <td><strong>💬 Ask Me About</strong></td>
-    <td>LangChain, CrewAI, MCP Agents, full-stack AI integrations</td>
+    <td>LangChain, LangGraph, CrewAI, MCP Agents, RAG, financial ML, and full-stack AI integrations</td>
   </tr>
   <tr>
     <td><strong>📫 Reach Me</strong></td>
@@ -71,6 +83,21 @@
 
 ---
 
+## 🏆 Highlights
+
+<div align="center">
+
+| Achievement | Details |
+|---|---|
+| 🚀 AlgoSwarm Hackathon | Top 10 among 10K+ teams India-wide |
+| 🤖 AI/ML Internship | Built practical AI/ML systems for finance use cases at L&T Finance |
+| 🧠 GenAI Projects | Built AI agents, RAG apps, automation tools, and graph-based AI systems |
+| 📈 FinTech Interest | Interested in AI for financial modeling, automation, risk, and decision-making |
+
+</div>
+
+---
+
 ## 🌐 Socials:
 
 <div align="center">
@@ -89,15 +116,18 @@
 <div align="center">
 
 ### 🖥 Languages  
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 ### 🎨 Frontend  
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -105,6 +135,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### ⚙️ Backend / APIs  
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -112,7 +143,8 @@
 
 ### 🤖 AI & ML
 
- **🔗 Agentic Frameworks**  
+**🔗 Agentic Frameworks**  
+
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=python&logoColor=white)
 ![LCEL](https://img.shields.io/badge/LCEL-000000?style=for-the-badge&logo=python&logoColor=white)
 ![AutoGen](https://img.shields.io/badge/AutoGen-00BFFF?style=for-the-badge&logo=openai&logoColor=white)
@@ -120,8 +152,10 @@
 ![LangGraph](https://img.shields.io/badge/LangGraph-1E40AF?style=for-the-badge&logo=python&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=python&logoColor=white)
 
-
 **🧠 LLM APIs & Inference**  
+
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq_API-FF6B81?style=for-the-badge&logo=lightning&logoColor=white)
 ![NVIDIA NIM](https://img.shields.io/badge/NVIDIA_NIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=openai&logoColor=white)
@@ -130,35 +164,43 @@
 ![Firecrawl](https://img.shields.io/badge/Firecrawl-FF6600?style=for-the-badge&logo=firefox-browser&logoColor=white)
 
 **🧠 Deep Learning**  
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 **📊 ML & CV Libraries**  
+
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=python&logoColor=white)
 
 **📈 Data Analysis**  
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-00CED1?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🗃️ Databases / Vector Stores  
+
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF8C00?style=for-the-badge&logo=vector&logoColor=white)
 ![AstraDB](https://img.shields.io/badge/AstraDB-2D2D2D?style=for-the-badge&logo=datastax&logoColor=white)
 ![Faiss](https://img.shields.io/badge/Faiss-121011?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🧰 Tools & Platforms  
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Cursor AI](https://img.shields.io/badge/Cursor_AI-121212?style=for-the-badge&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -168,9 +210,12 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### ☁️ DevOps / Cloud  
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=github-actions&logoColor=white)
 
 </div>
@@ -181,9 +226,13 @@
 
 <div align="center">
   
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Electrolight123&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Electrolight123&theme=codeSTACKr&hide_border=true)<br/>
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Electrolight123&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=Electrolight123&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true" alt="Abhishek's GitHub Stats" />
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=Electrolight123&theme=codeSTACKr&hide_border=true" alt="Abhishek's GitHub Streak" />
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Electrolight123&theme=codeSTACKr&hide_border=true&layout=compact" alt="Top Languages" />
 
 </div>
 
@@ -193,25 +242,25 @@
 
 <p align="center">
   <a href="https://github.com/Electrolight123/BrowserAgent-GPT-Navigator">
-    <img width="420" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Electrolight123&repo=BrowserAgent-GPT-Navigator&theme=buefy&cache_seconds=86400" />
+    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Electrolight123&repo=BrowserAgent-GPT-Navigator&theme=buefy&cache_seconds=86400" alt="BrowserAgent-GPT-Navigator" />
   </a>
   <a href="https://github.com/Electrolight123/StockSage-AI">
-    <img width="420" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Electrolight123&repo=StockSage-AI&theme=buefy&cache_seconds=86400" />
+    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Electrolight123&repo=StockSage-AI&theme=buefy&cache_seconds=86400" alt="StockSage-AI" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Electrolight123/AI-TravelPlanner-CrewAI">
-    <img width="420" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Electrolight123&repo=AI-TravelPlanner-CrewAI&theme=buefy&cache_seconds=86400" />
+    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Electrolight123&repo=AI-TravelPlanner-CrewAI&theme=buefy&cache_seconds=86400" alt="AI-TravelPlanner-CrewAI" />
   </a>
   <a href="https://github.com/Electrolight123/BlogToPodcast-Agent">
-    <img width="420" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Electrolight123&repo=BlogToPodcast-Agent&theme=buefy&cache_seconds=86400" />
+    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Electrolight123&repo=BlogToPodcast-Agent&theme=buefy&cache_seconds=86400" alt="BlogToPodcast-Agent" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Electrolight123/Bitcoin-Trading-Signal-Prediction">
-    <img width="420" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Electrolight123&repo=Bitcoin-Trading-Signal-Prediction&theme=buefy&cache_seconds=86400" />
+    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Electrolight123&repo=Bitcoin-Trading-Signal-Prediction&theme=buefy&cache_seconds=86400" alt="Bitcoin-Trading-Signal-Prediction" />
   </a>
 </p>
 
@@ -241,4 +290,4 @@ Your support helps me keep building open-source AI agents and educational tools.
   
 ![snake gif](https://github.com/Electrolight123/Electrolight123/blob/output/github-snake.svg)
 
-</div> 
+</div>
