@@ -30,7 +30,7 @@
 <table align="center">
   <tr>
     <td><strong>🔭 Currently Building</strong></td>
-    <td>Autonomous AI agents using MCP, CrewAI, and custom RAG pipelines</td>
+    <td>Autonomous AI agents using LangGraph, MCP, CrewAI, and custom RAG pipelines</td>
   </tr>
   <tr>
     <td><strong>🌱 Learning</strong></td>
@@ -181,9 +181,9 @@
 
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=Electrolight123&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Electrolight123&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Electrolight123&theme=codeSTACKr&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Electrolight123&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Electrolight123&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
@@ -193,25 +193,25 @@
 
 <p align="center">
   <a href="https://github.com/Electrolight123/BrowserAgent-GPT-Navigator">
-    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Electrolight123&repo=BrowserAgent-GPT-Navigator&theme=buefy&cache_seconds=86400" />
+    <img width="420" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Electrolight123&repo=BrowserAgent-GPT-Navigator&theme=buefy&cache_seconds=86400" />
   </a>
   <a href="https://github.com/Electrolight123/StockSage-AI">
-    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Electrolight123&repo=StockSage-AI&theme=buefy&cache_seconds=86400" />
+    <img width="420" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Electrolight123&repo=StockSage-AI&theme=buefy&cache_seconds=86400" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Electrolight123/AI-TravelPlanner-CrewAI">
-    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Electrolight123&repo=AI-TravelPlanner-CrewAI&theme=buefy&cache_seconds=86400" />
+    <img width="420" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Electrolight123&repo=AI-TravelPlanner-CrewAI&theme=buefy&cache_seconds=86400" />
   </a>
   <a href="https://github.com/Electrolight123/BlogToPodcast-Agent">
-    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Electrolight123&repo=BlogToPodcast-Agent&theme=buefy&cache_seconds=86400" />
+    <img width="420" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Electrolight123&repo=BlogToPodcast-Agent&theme=buefy&cache_seconds=86400" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Electrolight123/Bitcoin-Trading-Signal-Prediction">
-    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Electrolight123&repo=Bitcoin-Trading-Signal-Prediction&theme=buefy&cache_seconds=86400" />
+    <img width="420" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Electrolight123&repo=Bitcoin-Trading-Signal-Prediction&theme=buefy&cache_seconds=86400" />
   </a>
 </p>
 
