@@ -30,7 +30,7 @@
 <table align="center">
   <tr>
     <td><strong>🔭 Currently Building</strong></td>
-    <td>Autonomous AI agents using MCP, CrewAI, and custom RAG pipelines</td>
+    <td>Autonomous AI agents using LangGraph, MCP, CrewAI, and custom RAG pipelines</td>
   </tr>
   <tr>
     <td><strong>🌱 Learning</strong></td>
@@ -119,7 +119,6 @@
 ![CrewAI](https://img.shields.io/badge/CrewAI-8B5CF6?style=for-the-badge&logo=semantic-release&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1E40AF?style=for-the-badge&logo=python&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=python&logoColor=white)
-
 
 **🧠 LLM APIs & Inference**  
 ![Groq](https://img.shields.io/badge/Groq_API-FF6B81?style=for-the-badge&logo=lightning&logoColor=white)
@@ -211,11 +210,11 @@
 <table>
   <tr>
     <td width="50%" align="center">
-      <h3>
+      <p>
         <a href="https://github.com/Electrolight123/BrowserAgent-GPT-Navigator">
-          BrowserAgent-GPT-Navigator
+          <strong>BrowserAgent-GPT-Navigator</strong>
         </a>
-      </h3>
+      </p>
       <p>
         AI browser automation agent for web navigation, interaction, and decision-making using LLM workflows.
       </p>
@@ -223,12 +222,13 @@
         <strong>Focus:</strong> AI Agents • Browser Automation • LLM Automation
       </p>
     </td>
+
     <td width="50%" align="center">
-      <h3>
+      <p>
         <a href="https://github.com/Electrolight123/StockSage-AI">
-          StockSage-AI
+          <strong>StockSage-AI</strong>
         </a>
-      </h3>
+      </p>
       <p>
         AI-powered stock analysis dashboard for financial insights, market analysis, and investment research.
       </p>
@@ -240,11 +240,11 @@
 
   <tr>
     <td width="50%" align="center">
-      <h3>
+      <p>
         <a href="https://github.com/Electrolight123/AI-TravelPlanner-CrewAI">
-          AI-TravelPlanner-CrewAI
+          <strong>AI-TravelPlanner-CrewAI</strong>
         </a>
-      </h3>
+      </p>
       <p>
         Multi-agent AI travel planner that uses agent-based workflows for planning and recommendations.
       </p>
@@ -252,12 +252,13 @@
         <strong>Focus:</strong> CrewAI • Multi-Agent Systems • Planning Automation
       </p>
     </td>
+
     <td width="50%" align="center">
-      <h3>
+      <p>
         <a href="https://github.com/Electrolight123/BlogToPodcast-Agent">
-          BlogToPodcast-Agent
+          <strong>BlogToPodcast-Agent</strong>
         </a>
-      </h3>
+      </p>
       <p>
         AI automation tool that converts written blog content into podcast-style audio workflows.
       </p>
@@ -269,11 +270,11 @@
 
   <tr>
     <td colspan="2" align="center">
-      <h3>
+      <p>
         <a href="https://github.com/Electrolight123/Bitcoin-Trading-Signal-Prediction">
-          Bitcoin-Trading-Signal-Prediction
+          <strong>Bitcoin-Trading-Signal-Prediction</strong>
         </a>
-      </h3>
+      </p>
       <p>
         Financial ML project for Bitcoin trading signal prediction using market data and data-driven modeling.
       </p>
@@ -285,7 +286,6 @@
 </table>
 
 </div>
-
 ---
 
 ## 💰 You can help me by Donating
