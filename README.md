@@ -46,7 +46,7 @@
   </tr>
   <tr>
     <td><strong>💬 Ask Me About</strong></td>
-    <td>LangChain, CrewAI, MCP Agents, full-stack AI integrations</td>
+    <td>Openclaw, LangChain, CrewAI, MCP Agents, full-stack AI integrations</td>
   </tr>
   <tr>
     <td><strong>📫 Reach Me</strong></td>
